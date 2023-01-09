@@ -12,7 +12,7 @@ chapter 3
 hi there every one
 
 chapter 4
-=======
+
 chapter 5
 hi every pnwwwwww
->>>>>>> a0c785c54d0a7f4fdf7ae2ae1700eacaeaad7d10
+
